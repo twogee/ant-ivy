@@ -88,6 +88,7 @@ Here is the list of people who have contributed source code and documentation up
 * St&eacute;phane Bailliez
 * Karl Baum
 * Andrew Bernhagen
+* Timothy Bingaman
 * Mikkel Bjerg
 * Per Arnold Blaasmo
 * Jeffrey Blattman

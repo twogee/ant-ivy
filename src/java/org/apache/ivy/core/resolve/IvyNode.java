@@ -441,7 +441,7 @@ public class IvyNode implements Comparable<IvyNode> {
         return loadedRootModuleConfs.add(rootModuleConf);
     }
 
-    private boolean isRootModuleConfLoaded(String rootModuleConf) {
+    public boolean isRootModuleConfLoaded(String rootModuleConf) {
         return loadedRootModuleConfs.contains(rootModuleConf);
     }
 
